@@ -1,11 +1,7 @@
 스파르타 코딩 클럽! git 사전 강의!
 
-<<<<<<< HEAD
 revert 위한 dummy text 1
 
 revert 위한 dummy text 2
 
 revert 위한 dummy text 3
-=======
-revert 위한 dummy text 1
->>>>>>> parent of c6a003e (dummy commit for revert 2)
