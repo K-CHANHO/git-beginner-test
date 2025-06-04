@@ -1,7 +1,3 @@
 스파르타 코딩 클럽! git 사전 강의!
 
 revert 위한 dummy text 1
-
-revert 위한 dummy text 2
-
-revert 위한 dummy text 3
