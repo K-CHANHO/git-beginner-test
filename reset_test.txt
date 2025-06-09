@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 revert를 위한 텍스트 1
 revert를 위한 텍스트 2
 revert를 위한 텍스트 3
+=======
+reset을 위한 테스트 커밋 1
+>>>>>>> parent of 2b8faa5 (revert test commit 1)
