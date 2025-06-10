@@ -1,10 +1,21 @@
 스파르타 코딩 클럽! git 사전 강의!
 라인1
 라인2
+<<<<<<< HEAD
 라인3 -> main 브랜치에서 라인 3 수정
 라인4
 라인5
 라인6
+=======
+라인3
+라인4
+라인5
+라인6
+
+conflict-test 브랜치에서 새로운 라인 A1 추가(커밋1)
+conflict-test 브랜치에서 새로운 라인 A2 추가(커밋2)
+>>>>>>> e0a94a8 (conflict-test: add lines A1 and A2)
+커밋추가 ASERASDFASDF 
 
 main 브랜치에서 새로운 라인 M1 추가
 cherry-pick 브랜치 테스트 입력입니다.
